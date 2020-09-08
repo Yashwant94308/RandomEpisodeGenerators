@@ -11,8 +11,8 @@ a picker for any of the show we want to use in rejuvenetion of our experience. S
 ### What to do
 * Linux Users
 ```
-git clone https://github.com/rs9899/randomEpisodeGenerator.git
-cd randomEpisodeGenerator
+git clone https://github.com/yashwant94308/RandomEpisodeGenerator.git
+cd RandomEpisodeGenerator
 pip install -r requirements.txt
 python main.py
 ```
@@ -20,12 +20,7 @@ python main.py
 * Windows Users : Yes, this time I have tried taking care of windows user too as more than often they miss out
 on many of the github projects.
 
-Method 1 (Suggested)
-* [Download Visual Studio C++](https://www.microsoft.com/en-in/download/details.aspx?id=48145)
-* Download the executable by [clicking here](https://github.com/rs9899/randomEpisodeGenerator/raw/master/Final%20Executables/main.exe)
-* Run the executable
-
-Method 2
+Method 1
 * Download [Python for Windows](https://www.python.org/downloads/windows/)
 * Follow the steps as per Linux users
 
